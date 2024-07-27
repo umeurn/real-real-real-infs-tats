@@ -1,5 +1,5 @@
 local settings = {
-    PointSlot = 'Slot1',
+    PointSlot = 'Slot3',
     NamekianSlot = 'Slot2',
 }
 
